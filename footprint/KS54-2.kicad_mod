@@ -258,4 +258,15 @@
 			(xyz -0 -0 90)
 		)
 	)
+	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/Generic Li Ion 1850 cell.step"
+		(offset
+			(xyz 37 -40 10)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
 )

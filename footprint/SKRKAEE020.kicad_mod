@@ -177,7 +177,7 @@
 		(uuid "07977574-aaa6-45c0-9f76-f320b535aaa0")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/SKRKAEE020.stp"
+	(model "${KIPRJMOD}/../libs/3d/SKRKAEE020.stp"
 		(offset
 			(xyz 0 0 0.7499999887)
 		)
