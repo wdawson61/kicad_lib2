@@ -199,7 +199,7 @@
 		(uuid "75648b2d-f4ed-4c67-97e0-0a8c71f541f7")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/DFLZ10-7.stp"
+	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/DFLZ10-7.stp"
 		(offset
 			(xyz 0 0 0)
 		)

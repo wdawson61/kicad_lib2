@@ -1,0 +1,233 @@
+(footprint "691321100006"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.835 0)
+		(layer "F.SilkS")
+		(uuid "bd26212d-baae-4fef-a4fb-22542bd3f5c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "691321100006"
+		(at 4.12 4.365 0)
+		(layer "F.Fab")
+		(uuid "6a9e10be-bcb6-4211-9339-67475246dd23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6fa9112-87d6-419c-96a1-cbcaa4dd8e9e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5d50735-7ca8-4fdb-8f73-74d59b970dd6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -11.3 -4.5)
+		(end 11.3 -4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7de7a07a-c371-4daf-b294-cc78965d32d2")
+	)
+	(fp_line
+		(start -11.3 2.9)
+		(end -11.3 -4.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff112f8d-4288-456b-a3b8-98445d83e795")
+	)
+	(fp_line
+		(start 11.3 -4.5)
+		(end 11.3 2.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f6d3c32-6df2-4032-9d04-583d58c05203")
+	)
+	(fp_line
+		(start 11.3 2.9)
+		(end -11.3 2.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8bd578b8-7b31-4eed-8a79-d077b0ba2d0d")
+	)
+	(fp_circle
+		(center -10 -1.6)
+		(end -9.9 -1.6)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "9aeea32e-262a-4ff6-87d5-3323884bc002")
+	)
+	(fp_poly
+		(pts
+			(xy -11.5 -4.7) (xy 11.5 -4.7) (xy 11.5 3.1) (xy -11.5 3.1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "16a3325e-7bf4-41f1-845c-91fff1af49cc")
+	)
+	(fp_line
+		(start -11.2 -4.4)
+		(end -11.2 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a4fa8da1-f0df-477b-bb03-9991b95bac85")
+	)
+	(fp_line
+		(start -11.2 2.8)
+		(end 11.2 2.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e8d14f97-1300-4eaa-a1ef-6bb3c3395380")
+	)
+	(fp_line
+		(start 11.2 -4.4)
+		(end -11.2 -4.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "40cca200-59ea-48ee-ac53-4aa544af71fd")
+	)
+	(fp_line
+		(start 11.2 2.8)
+		(end 11.2 -4.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "47582a6b-08a8-44f5-83bc-bb5869818c24")
+	)
+	(pad "1" thru_hole circle
+		(at -8.75 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "fbc7eb99-810c-494d-b051-7d616d1fb0f8")
+	)
+	(pad "2" thru_hole circle
+		(at -5.25 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f31e1ecc-5d4e-4984-bda7-169033aafc8d")
+	)
+	(pad "3" thru_hole circle
+		(at -1.75 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8bee5b85-7e7f-46cd-99e1-7fc08f87bdff")
+	)
+	(pad "4" thru_hole circle
+		(at 1.75 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "e9ebfdfc-c04c-4aec-ae68-7c28a80a0d2f")
+	)
+	(pad "5" thru_hole circle
+		(at 5.25 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "cc401f2e-cf4a-4203-ab3d-a3bde3b78e9c")
+	)
+	(pad "6" thru_hole circle
+		(at 8.75 0)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "07c9bd27-54fb-4435-80bf-b448fdf4371c")
+	)
+	(embedded_fonts no)
+	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/691321100006.step"
+		(offset
+			(xyz 0 0.8 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/691361100006 .stp"
+		(offset
+			(xyz 0 -0.57 14)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 -0)
+		)
+	)
+)
