@@ -24070,12 +24070,13 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "Y"
-			(at -5.0878 3.8159 0)
+			(at 3.2942 37.5979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "XRCGB40M000F1S1DR0"
@@ -24088,7 +24089,7 @@
 			)
 		)
 		(property "Footprint" "footprint:OSC_XRCGB40M000F1S1DR0"
-			(at 0 0 0)
+			(at 9.398 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24116,7 +24117,7 @@
 			)
 		)
 		(property "MF" "Murata Electronics"
-			(at 0 0 0)
+			(at 9.144 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24126,7 +24127,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.7 mm"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24136,7 +24137,7 @@
 			)
 		)
 		(property "Package" "SMD-4 Murata"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24146,7 +24147,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24156,7 +24157,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/XRCGB40M000F1S1DR0/Murata/view-part/?ref=eda"
-			(at 0 0 0)
+			(at 8.636 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24166,7 +24167,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24176,7 +24177,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24186,7 +24187,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/XRCGB40M000F1S1DR0/Murata/view-part/?ref=snap"
-			(at 0 0 0)
+			(at 8.636 36.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24196,7 +24197,7 @@
 			)
 		)
 		(property "MP" "XRCGB40M000F1S1DR0"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24206,7 +24207,7 @@
 			)
 		)
 		(property "Description_1" "Crystal 40MHz ±10ppm (Tol) ±10ppm (Stability) 12pF 50Ohm 4-Pin CSMD T/R"
-			(at 0 0 0)
+			(at 8.128 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24216,7 +24217,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24226,7 +24227,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Murata Electronics"
-			(at 0 0 0)
+			(at 8.382 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24322,6 +24323,42 @@
 					(effects
 						(font
 							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 6.35 270)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -6.35 90)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
 						)
 					)
 				)
@@ -25696,6 +25733,115 @@
 					)
 				)
 				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "testpoint_1mm"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 0.762)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "TP1"
+			(at 2.54 4.5721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "testpoint_1mm"
+			(at 2.54 2.0321 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 5.08 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 5.08 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "test point tp"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Pin* Test*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "testpoint_1mm_0_1"
+			(circle
+				(center 0 3.302)
+				(radius 0.762)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "testpoint_1mm_1_1"
+			(pin passive line
+				(at 0 0 90)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
