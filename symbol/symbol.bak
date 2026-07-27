@@ -24328,9 +24328,9 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 -3.81 180)
+				(at 0 6.35 270)
 				(length 2.54)
-				(name "CASE2"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -24346,9 +24346,9 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 -5.08 180)
+				(at 0 -6.35 90)
 				(length 2.54)
-				(name "CASE1"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
