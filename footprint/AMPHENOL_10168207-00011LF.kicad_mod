@@ -482,103 +482,79 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "4c74f78f-d0b4-48bb-94a3-1e49a62a7c31")
 	)
-	(pad "A1" smd rect
-		(at -2.75 -0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "3c86a3d1-ec46-4729-ba5c-717ec9966f30")
-	)
-	(pad "A4" smd rect
-		(at -1.25 -0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "fd7fa8a2-9446-449b-b563-6aa277d5eeb4")
-	)
-	(pad "A5" smd rect
+	(pad "CC1" smd rect
 		(at -0.75 -0.865)
 		(size 0.3 0.87)
 		(layers "F.Cu" "F.Paste")
 		(uuid "662280ab-6075-4fa0-9d4a-4b7353b0d937")
 	)
-	(pad "A6" smd rect
-		(at -0.25 -0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "b538b5d3-7ebd-4f3f-b04a-b24bb5955ae6")
-	)
-	(pad "A7" smd rect
-		(at 0.25 -0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "f52484ac-852b-4c09-99f7-b0761cc7b380")
-	)
-	(pad "A8" smd rect
-		(at 0.75 -0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "d1ae5737-86cc-4284-93c3-dc4263fa2125")
-	)
-	(pad "A9" smd rect
-		(at 1.25 -0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "8be4b89c-c3e8-41f8-a03a-c6d8c71dc8b0")
-	)
-	(pad "A12" smd rect
-		(at 2.75 -0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "2c7a2b1d-6ac0-41cd-90b7-5a5fa47de3b0")
-	)
-	(pad "B1" smd rect
-		(at 2.75 0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "2425b66b-d8bf-4bf4-8231-c9f94c9e8b7d")
-	)
-	(pad "B4" smd rect
-		(at 1.25 0.865)
-		(size 0.3 0.87)
-		(layers "F.Cu" "F.Paste")
-		(uuid "0cde9c51-b4bb-4c01-9e07-d589317ae4fc")
-	)
-	(pad "B5" smd rect
+	(pad "CC2" smd rect
 		(at 0.75 0.865)
 		(size 0.3 0.87)
 		(layers "F.Cu" "F.Paste")
 		(uuid "2db97d8e-1798-43c8-b5db-69964001f68b")
 	)
-	(pad "B6" smd rect
+	(pad "D+" smd rect
+		(at -0.25 -0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "b538b5d3-7ebd-4f3f-b04a-b24bb5955ae6")
+	)
+	(pad "D+" smd rect
 		(at 0.25 0.865)
 		(size 0.3 0.87)
 		(layers "F.Cu" "F.Paste")
 		(uuid "cf282b2d-42a3-400b-a0aa-2e2f6b5da0a5")
 	)
-	(pad "B7" smd rect
+	(pad "D-" smd rect
 		(at -0.25 0.865)
 		(size 0.3 0.87)
 		(layers "F.Cu" "F.Paste")
 		(uuid "e29b91e3-3682-4abd-b8d2-a877dc537fa6")
 	)
-	(pad "B8" smd rect
-		(at -0.75 0.865)
+	(pad "D-" smd rect
+		(at 0.25 -0.865)
 		(size 0.3 0.87)
 		(layers "F.Cu" "F.Paste")
-		(uuid "e4042349-d589-4dae-adef-1eded02808a2")
+		(uuid "f52484ac-852b-4c09-99f7-b0761cc7b380")
 	)
-	(pad "B9" smd rect
-		(at -1.25 0.865)
+	(pad "GND" smd rect
+		(at -2.75 -0.865)
 		(size 0.3 0.87)
 		(layers "F.Cu" "F.Paste")
-		(uuid "f8aec7eb-8749-4dad-ab11-b29bd551e5b4")
+		(uuid "3c86a3d1-ec46-4729-ba5c-717ec9966f30")
 	)
-	(pad "B12" smd rect
+	(pad "GND" smd rect
 		(at -2.75 0.865)
 		(size 0.3 0.87)
 		(layers "F.Cu" "F.Paste")
 		(uuid "7be8f972-6993-45c6-afda-04f6c7f1db5f")
 	)
-	(pad "SH1" thru_hole oval
+	(pad "GND" smd rect
+		(at 2.75 -0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "2c7a2b1d-6ac0-41cd-90b7-5a5fa47de3b0")
+	)
+	(pad "GND" smd rect
+		(at 2.75 0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "2425b66b-d8bf-4bf4-8231-c9f94c9e8b7d")
+	)
+	(pad "SBU1" smd rect
+		(at 0.75 -0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "d1ae5737-86cc-4284-93c3-dc4263fa2125")
+	)
+	(pad "SBU2" smd rect
+		(at -0.75 0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "e4042349-d589-4dae-adef-1eded02808a2")
+	)
+	(pad "SHIELD" thru_hole oval
 		(at -2.4 -2.15)
 		(size 1.4 1.15)
 		(drill oval 0.9 0.65)
@@ -587,16 +563,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "36e467fd-c482-4938-b89b-23e33febc4c8")
 	)
-	(pad "SH2" thru_hole oval
-		(at 2.4 -2.15)
-		(size 1.4 1.15)
-		(drill oval 0.9 0.65)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
-		(uuid "104d766c-549d-4d16-b35c-e97fc49f1778")
-	)
-	(pad "SH3" thru_hole oval
+	(pad "SHIELD" thru_hole oval
 		(at -2.4 2.15)
 		(size 1.4 1.15)
 		(drill oval 0.9 0.65)
@@ -605,7 +572,16 @@
 		(solder_mask_margin 0.102)
 		(uuid "52ae2598-8395-4ca8-8dd8-eb6b57d49a32")
 	)
-	(pad "SH4" thru_hole oval
+	(pad "SHIELD" thru_hole oval
+		(at 2.4 -2.15)
+		(size 1.4 1.15)
+		(drill oval 0.9 0.65)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "104d766c-549d-4d16-b35c-e97fc49f1778")
+	)
+	(pad "SHIELD" thru_hole oval
 		(at 2.4 2.15)
 		(size 1.4 1.15)
 		(drill oval 0.9 0.65)
@@ -613,6 +589,30 @@
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
 		(uuid "dec2f13f-fca7-404d-b1b0-b2d03d74f47b")
+	)
+	(pad "VBUS" smd rect
+		(at -1.25 -0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "fd7fa8a2-9446-449b-b563-6aa277d5eeb4")
+	)
+	(pad "VBUS" smd rect
+		(at -1.25 0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "f8aec7eb-8749-4dad-ab11-b29bd551e5b4")
+	)
+	(pad "VBUS" smd rect
+		(at 1.25 -0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "8be4b89c-c3e8-41f8-a03a-c6d8c71dc8b0")
+	)
+	(pad "VBUS" smd rect
+		(at 1.25 0.865)
+		(size 0.3 0.87)
+		(layers "F.Cu" "F.Paste")
+		(uuid "0cde9c51-b4bb-4c01-9e07-d589317ae4fc")
 	)
 	(embedded_fonts no)
 	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/10168207-00011LF.step"
