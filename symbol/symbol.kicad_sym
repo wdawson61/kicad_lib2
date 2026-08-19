@@ -8511,7 +8511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint:74LVC1G123GN115"
+		(property "Footprint" "footprint:SOP50P310X90-8N"
 			(at 0 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12698,7 +12698,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "DRV8244HQRYJRQ1"
+		(property "Footprint" "footprint:DRV8244HQRYJRQ1"
 			(at 29.21 -94.92 0)
 			(show_name no)
 			(do_not_autoplace no)

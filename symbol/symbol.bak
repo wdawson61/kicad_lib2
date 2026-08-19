@@ -8511,7 +8511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint:74LVC1G123GN115"
+		(property "Footprint" "footprint:SOP50P310X90-8N"
 			(at 0 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12877,7 +12877,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 33.02 -5.08 180)
 				(length 5.08)
 				(name "OUT2_1"
@@ -12895,7 +12895,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 33.02 -7.62 180)
 				(length 5.08)
 				(name "OUT2_2"
@@ -12931,7 +12931,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 33.02 0 180)
 				(length 5.08)
 				(name "OUT1_1"
@@ -12949,7 +12949,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 33.02 -2.54 180)
 				(length 5.08)
 				(name "OUT1_2"
@@ -13021,7 +13021,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 0 0 0)
 				(length 5.08)
 				(name "~{nSCS}"
@@ -13039,7 +13039,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 0 -2.54 0)
 				(length 5.08)
 				(name "SCLK"
@@ -13057,7 +13057,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin passive line
 				(at 0 -5.08 0)
 				(length 5.08)
 				(name "SDI"
