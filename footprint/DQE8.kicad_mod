@@ -255,7 +255,7 @@
 		(uuid "73798341-f7f8-43d0-862d-3a7e903dd3c6")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/DQE0008A.stp"
+	(model "${KIPRJMOD}/../libs/3d/DQE0008A.stp"
 		(offset
 			(xyz 0.45 -0.19 0)
 		)

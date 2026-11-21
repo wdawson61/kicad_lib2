@@ -367,7 +367,7 @@
 		(uuid "c0532ad6-1497-497c-ab1b-50459fe81474")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/EEEFK1V681AQ.step"
+	(model "${KIPRJMOD}/../libs/3d/EEEFK1V681AQ.step"
 		(offset
 			(xyz 0 0 0)
 		)

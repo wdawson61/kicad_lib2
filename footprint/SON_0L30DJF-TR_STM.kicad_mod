@@ -398,7 +398,7 @@
 		(uuid "9cf024dd-e301-4a39-b4f0-9e0339fb2d91")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/STPS30L30DJF-TR.step"
+	(model "${KIPRJMOD}/../libs/3d/STPS30L30DJF-TR.step"
 		(offset
 			(xyz -0.5 2.2 0)
 		)

@@ -229,7 +229,7 @@
 		(uuid "8445f384-bd19-4d27-b462-cdbc12359c13")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/B4B-XH-A.step"
+	(model "${KIPRJMOD}/../libs/3d/B4B-XH-A.step"
 		(offset
 			(xyz 0 0 0)
 		)

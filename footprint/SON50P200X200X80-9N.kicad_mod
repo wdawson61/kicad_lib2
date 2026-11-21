@@ -30,7 +30,7 @@
   (pad 7 smd rect (at 1.05 -0.25 90) (size 0.3 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 1.05 -0.75 90) (size 0.3 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 0 0 0) (size 1 1.7) (layers F.Cu F.Paste F.Mask))
-  (model BQ25176MDSGR.stp
+  (model "${KIPRJMOD}/../libs/3d/BQ25176MDSGR.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

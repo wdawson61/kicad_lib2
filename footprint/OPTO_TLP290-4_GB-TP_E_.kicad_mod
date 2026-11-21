@@ -285,7 +285,7 @@
 		(uuid "23c948cd-2d06-4f04-a7e6-cb1adca23e4f")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/TLP290-4_GB-TP_E_.step"
+	(model "${KIPRJMOD}/../libs/3d/TLP290-4_GB-TP_E_.step"
 		(offset
 			(xyz 0 0 0)
 		)

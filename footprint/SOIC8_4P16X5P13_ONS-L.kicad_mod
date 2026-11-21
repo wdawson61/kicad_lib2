@@ -671,7 +671,7 @@
 		(uuid "3f1838b8-da4a-4117-afd2-44a832b35a6b")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/SOIC8_4P16X5P13_ONS.step"
+	(model "${KIPRJMOD}/../libs/3d/SOIC8_4P16X5P13_ONS.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -457,7 +457,7 @@
 		(uuid "e0ff12d3-168d-40dc-bad7-8eab2e2ba97a")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/RJHSE5E80.STEP"
+	(model "${KIPRJMOD}/../libs/3d/RJHSE5E80.STEP"
 		(offset
 			(xyz 0 -2.5 2.75)
 		)

@@ -31,7 +31,7 @@
   (pad 6 smd rect (at 0.150 -0.35 0) (size 0.150 0.500) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -0.150 -0.35 0) (size 0.150 0.500) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at -0.450 -0.35 0) (size 0.150 0.500) (layers F.Cu F.Paste F.Mask))
-  (model 74LVC1G123GN,115.stp
+  (model "${KIPRJMOD}/../libs/3d/74LVC1G123GN,115.stp"
     (at (xyz 0 0 0.0019685039663409))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

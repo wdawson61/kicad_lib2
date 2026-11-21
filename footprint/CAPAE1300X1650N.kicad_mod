@@ -197,7 +197,7 @@
 		(uuid "427b9c01-643b-412f-9804-7845bc9eb6a9")
 	)
 	(embedded_fonts no)
-	(model "EMHS500ARA471MKG5S.stp"
+	(model "${KIPRJMOD}/../libs/3d/EMHS500ARA471MKG5S.stp"
 		(offset
 			(xyz 0 0 0)
 		)

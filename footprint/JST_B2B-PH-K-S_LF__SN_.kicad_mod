@@ -211,7 +211,7 @@
 		(uuid "4fc6abde-c572-4620-990c-3b6d25dd83ed")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/B2B-PH-K-S_LF__SN_.step"
+	(model "${KIPRJMOD}/../libs/3d/B2B-PH-K-S_LF__SN_.step"
 		(offset
 			(xyz 0 0 0)
 		)

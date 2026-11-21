@@ -420,7 +420,7 @@
 		(uuid "f6954517-bf66-49d7-90f6-6df010047b3d")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/SMPD Package.step"
+	(model "${KIPRJMOD}/../libs/3d/SMPD Package.step"
 		(offset
 			(xyz 0 1.5 0)
 		)

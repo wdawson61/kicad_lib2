@@ -236,7 +236,7 @@
 		(uuid "38ec93cc-ed54-4159-9404-fabd728769b3")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/54.stp"
+	(model "${KIPRJMOD}/../libs/3d/54.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -247,7 +247,7 @@
 			(xyz -0 -0 -90)
 		)
 	)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/54.stp"
+	(model "${KIPRJMOD}/../libs/3d/54.stp"
 		(offset
 			(xyz 61.5 0 0)
 		)
@@ -258,7 +258,7 @@
 			(xyz -0 -0 90)
 		)
 	)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/Generic Li Ion 1850 cell.step"
+	(model "${KIPRJMOD}/../libs/3d/Generic Li Ion 1850 cell.step"
 		(offset
 			(xyz 37 -40 10)
 		)

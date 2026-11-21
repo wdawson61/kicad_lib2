@@ -30,7 +30,7 @@
   (pad A2 smd circle (at 0.2 -0.2 90) (size 0.204 0.204) (layers F.Cu F.Paste F.Mask))
   (pad B1 smd circle (at -0.2 0.2 90) (size 0.204 0.204) (layers F.Cu F.Paste F.Mask))
   (pad B2 smd circle (at 0.2 0.2 90) (size 0.204 0.204) (layers F.Cu F.Paste F.Mask))
-  (model DRV5011ADYBHR.stp
+  (model "${KIPRJMOD}/../libs/3d/DRV5011ADYBHR.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

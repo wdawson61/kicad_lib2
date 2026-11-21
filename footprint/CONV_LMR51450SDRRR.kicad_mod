@@ -776,7 +776,7 @@
 		(uuid "9e1fbad4-ab39-4445-b27b-0dcaa9229d2f")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/LMR51450SDRRR.step"
+	(model "${KIPRJMOD}/../libs/3d/LMR51450SDRRR.step"
 		(offset
 			(xyz 0 0 0)
 		)

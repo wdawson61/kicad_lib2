@@ -211,7 +211,7 @@
 		(uuid "76ac2043-47d8-4a8f-bda4-1e7892c1d643")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/3557-2.STEP"
+	(model "${KIPRJMOD}/../libs/3d/3557-2.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

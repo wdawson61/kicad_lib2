@@ -323,7 +323,7 @@
 		(uuid "02f6e003-fab0-4240-a2b0-f4365a56e618")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/DRV8244HQRYJRQ1.stp"
+	(model "${KIPRJMOD}/../libs/3d/DRV8244HQRYJRQ1.stp"
 		(offset
 			(xyz 0 -0.02999999888 0)
 		)

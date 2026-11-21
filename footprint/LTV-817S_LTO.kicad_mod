@@ -535,7 +535,7 @@
 		(uuid "cec2690c-394f-410f-85ad-86ddb5e95d39")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/LTV-817S_LTO.step"
+	(model "${KIPRJMOD}/../libs/3d/LTV-817S_LTO.step"
 		(offset
 			(xyz 0 0 0)
 		)

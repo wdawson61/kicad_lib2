@@ -421,7 +421,7 @@
 		(uuid "0fca909f-007c-46d8-b70c-c053896889c5")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/EM292902-UL.stp"
+	(model "${KIPRJMOD}/../libs/3d/EM292902-UL.stp"
 		(offset
 			(xyz 0 -22 -29)
 		)

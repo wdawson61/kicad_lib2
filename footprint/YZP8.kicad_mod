@@ -215,7 +215,7 @@
 		(uuid "8db9b49c-ac8a-4938-a33a-6f9fa152396f")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/YZP8.step"
+	(model "${KIPRJMOD}/../libs/3d/YZP8.step"
 		(offset
 			(xyz 0 0 0)
 		)

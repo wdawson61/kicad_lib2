@@ -181,7 +181,7 @@
 		(uuid "be9053c0-9fa9-4285-8041-1474bc2a13aa")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/XRCGB40M000F1S1DR0.step"
+	(model "${KIPRJMOD}/../libs/3d/XRCGB40M000F1S1DR0.step"
 		(offset
 			(xyz 0 0 0)
 		)

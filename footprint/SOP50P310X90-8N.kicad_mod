@@ -237,7 +237,7 @@
 		(uuid "1bec49d1-a30d-4309-9d37-cf0723cdb426")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/SN74AUP2G08DCUR.step"
+	(model "${KIPRJMOD}/../libs/3d/SN74AUP2G08DCUR.step"
 		(offset
 			(xyz 0 0 0)
 		)

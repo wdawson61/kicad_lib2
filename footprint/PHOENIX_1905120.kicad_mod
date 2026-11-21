@@ -247,7 +247,7 @@
 		(uuid "94f2b77d-3c07-447a-b333-ef686b423add")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/1905120.stp"
+	(model "${KIPRJMOD}/../libs/3d/1905120.stp"
 		(offset
 			(xyz 0 0 0)
 		)

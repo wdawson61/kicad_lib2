@@ -88,7 +88,7 @@
   (pad 59 smd rect (at 1.975 -0 0) (size 1.450 1.450) (layers F.Cu F.Paste F.Mask))
   (pad 60 smd rect (at 1.975 -1.975 0) (size 1.450 1.450) (layers F.Cu F.Paste F.Mask))
   (pad 61 smd rect (at 0.000 -1.975 0) (size 1.450 1.450) (layers F.Cu F.Paste F.Mask))
-  (model ESP32-C6-MINI-1U-N4.stp
+  (model "${KIPRJMOD}/../libs/3d/ESP32-C6-MINI-1U-N4.stp"
     (at (xyz 0 0.10629921447574 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -319,7 +319,7 @@
 		(uuid "eeee20fc-76d5-4784-9de6-3f2269a4228f")
 	)
 	(embedded_fonts no)
-	(model "/Users/wdawson/mydev/tracker2/hardware/libs/3d/CPT-9019A_CUD.step"
+	(model "${KIPRJMOD}/../libs/3d/CPT-9019A_CUD.step"
 		(offset
 			(xyz 0 0 0)
 		)

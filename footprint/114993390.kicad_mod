@@ -319,7 +319,7 @@
 		(uuid "4921f7a8-cb7a-4dde-8dfe-7f3a509e0137")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/Wio-SX1262_.step"
+	(model "${KIPRJMOD}/../libs/3d/Wio-SX1262_.step"
 		(offset
 			(xyz 0 0 0)
 		)
